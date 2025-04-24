@@ -40,7 +40,8 @@
 ![html](https://img.shields.io/badge/Html-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Css-%23663399?style=flat-square&logo=css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
-![More](https://img.shields.io/badge/And%20more...-white)
+And more...
+<!--![More](https://img.shields.io/badge/And%20more...-white)-->
 
 
 </details>
