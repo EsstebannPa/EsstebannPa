@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=2200&color=eae700&vCenter=true&width=435&lines=|+Software+Analyst+%26+Developer+|)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=2200&color=0e8008&vCenter=true&width=435&lines=|+Software+Analyst+%26+Developer+|)](https://git.io/typing-svg)
 
 </div>
 
-<img  align="right" width="250px" alt="laptop" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhxZ3ppdHJwc3A3MGJ6c2IxaWV3bXIxZXRzMXFqMTM1bnd0MnI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6LMDGsUHsdRC0/giphy.gif">
+<img  align="right" width="250px" alt="laptop" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif?cid=790b7611d970b65ffbd42a3f9b4904870cfbf4c31251520c&ep=v1_user_favorites&rid=giphy.gif&ct=s">
 
-<!--https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5c29uZXdwOHE4dTlua2M0cmZ0enN2dGIybHY2YnB6bjViaHY4OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oJHJeuOOs8ibkqdyPk/giphy.gif -->
+<!--https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmEwa3k2MmtnZmxxczBzdmMwNGxyeDVoaWJmYWhuc3kwYnJkOHAzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif -->
 
 <br>
 
@@ -17,6 +17,8 @@
 - 🌐 Junior Data Analyst.
 
 - ⚙️ Junior Data Engineer.
+  
+- 🐍 Junior Python Developer.
 
 - 🔍 Quality Control.
 
